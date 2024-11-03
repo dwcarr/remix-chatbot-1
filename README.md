@@ -1,5 +1,14 @@
 # Welcome to Remix!
 
+This is a simple chat app that use openai and deepinfra api for a simple chatbot.
+
+This demonstrates a number of key features of Remix:
+
+- server actions
+- client actions
+- client loader
+- client hydration
+
 - 📖 [Remix docs](https://remix.run/docs)
 
 ## Development
