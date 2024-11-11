@@ -13,6 +13,12 @@ This demonstrates a number of key features of Remix:
 
 ## Development
 
+Install dependencies
+
+```shellscript
+npm i
+```
+
 Run the dev server:
 
 ```shellscript
